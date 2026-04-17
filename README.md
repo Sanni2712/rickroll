@@ -1,6 +1,11 @@
 # rickroll
 ## Rickroll coded in C <br>
-`rick.exe` -> essentially just offline version of `curl ascii.live/rick` the ascii frames taken from this command itself and adjusted few parameters to display the frame properly.<br>
+`rick.exe` -> essentially just offline version of
+```
+curl ascii.live/rick
+```
+<br>
+The ASCII frames taken from this curl stream itself and adjusted few parameters to display the frame properly in the console.<br>
 Streams pre-encoded ASCII frames directly to the console, works on lab computers without internet.<br>
 
 ## Usage
