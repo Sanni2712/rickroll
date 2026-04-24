@@ -6,7 +6,7 @@ curl ascii.live/rick
 ```
 <br>
 The ASCII frames taken from this curl stream and adjusted few parameters to display the rickroll frame by frame smoothly in the terminal.<br>
-Streams pre-encoded ASCII frames directly to the console using fwrite(), works on lab computers without internet.<br>
+Streams pre-encoded ASCII frames directly to the console using fwrite() whenever it is run, works on lab computers without internet.<br>
 
 ## Usage
 Open the the folder containing `.exe` of any any app (preferably from the shortcut's target on the desktop by going into properties, or by using the `where <appname>` in the command line) and rename the orignal `.exe` for backup (ex- `eclipse.exe` -> `eclipse_og.exe`) and drop the `rick.exe` in the folder and rename it to the orignal (ex- `rick.exe` -> `eclipse.exe`, `rick.exe` -> `jupyter-notebook.exe`) <br>
